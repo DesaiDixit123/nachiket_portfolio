@@ -64,17 +64,18 @@ export default function ExtraInfo() {
                     <h1>Experience</h1>
                 </div>   
                 <div className="text-[20px] pt-[15px]">
-                    <p>Nachiket Shah has 2+ years of experience in Cyber Security. Currently, he is working at HNB Computers, specializing in cybersecurity solutions, network security, and ethical hacking.</p>
+                    <p> 2 YEARS EXPERINCE OF CYBER SECURITY FACULTY & L1 HARDWARE ENGINEER
+                    </p>
                 </div>
                 {/* Add Experience specific details */}
                 <div className="py-10 grid grid-cols-1 sm:grid-cols-2 gap-5 px-4">
     {/* HNB Computer Education (Full-time, April 2023 - April 2025) */}
     <div className="group bg-white w-full h-auto flex flex-col justify-center px-6 py-4 rounded-lg border-2 border-transparent hover:bg-gradient-to-r hover:from-[#2A3386] hover:to-[#00659A] p-1 transition-all duration-300 hover:shadow-lg">
         <h3 className="font-bold text-lg text-black group-hover:text-white transition-all duration-300">
-            HNB Computer Education (Full-time, April 2023 - April 2025)
+            H&B Computer Education (Full-time, April 2023 - April 2025)
         </h3>
         <p className="pt-2 text-black group-hover:text-white transition-all duration-300">
-            Working on cybersecurity solutions, ethical hacking, penetration testing, and network security assessments.
+       
         </p>
     </div>
 </div>

@@ -62,9 +62,9 @@ export default function Navigation() {
                     <ul className="flex flex-col gap-5 py-5 px-7">
                         <li><NavLink to="/" onClick={() => setIsMenuOpen(false)} className="hover:text-blue-600">Home</NavLink></li>
                         <li><NavLink to="/about" onClick={() => setIsMenuOpen(false)} className="hover:text-blue-600">About Us</NavLink></li>
-                        <li><NavLink to="/projects" onClick={() => setIsMenuOpen(false)} className="hover:text-blue-600">Projects</NavLink></li>
+                      
                         <li><NavLink to="/skills" onClick={() => setIsMenuOpen(false)} className="hover:text-blue-600">Skills</NavLink></li>
-                        <li><a href="/Dixit_Resume.pdf" target="_blank" rel="noopener noreferrer" onClick={() => setIsMenuOpen(false)} className="hover:text-blue-600">Resume</a></li>
+                        <li><a href="/nachiket_resume..pdf" target="_blank" rel="noopener noreferrer" onClick={() => setIsMenuOpen(false)} className="hover:text-blue-600">Resume</a></li>
                         <li><NavLink to="/story" onClick={() => setIsMenuOpen(false)} className="hover:text-blue-600">Story</NavLink></li>
                         <li><NavLink to="/contact" onClick={() => setIsMenuOpen(false)} className="hover:text-blue-600">Contact Me</NavLink></li>
                         <li>
